@@ -12,5 +12,4 @@ There are 7 projects
 6. Capstone Project: Tensies
 7. Capstone Project: Assembly: Endgame
 
-All of these projects were built using Vite and can be ran by typing: 
-`npm run dev`
+All of these projects were built using Vite and can be ran by typing:  `npm install && npm run dev` inside the project folder
