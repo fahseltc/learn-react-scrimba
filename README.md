@@ -1,4 +1,4 @@
-# Learn React Tuturial project from Scrimba
+# Learn React Tutorial Project from Scrimba
 
 This project was built based on 
 https://scrimba.com/learn-react-c0e
